@@ -3,7 +3,7 @@ public class Merge2Arrays {
 
         int[] fst = { 1, 2, 3, 4, 5 };   
         int[] sec = { 6, 7, 8, 9, 10 };
-        int[] third = new int[fst.length + sec.length];
+        int[] third = new int[fst.length + sec.length];    
 
         for (int i = 0; i < fst.length; i++) {
             third[i] = fst[i];
