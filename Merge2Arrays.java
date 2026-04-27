@@ -9,7 +9,7 @@ public class Merge2Arrays {
             third[i] = fst[i];   
         }
         int n = 0;
-        int k = third.length / 2;
+        int k = third.length / 2;  
         int n1 = sec.length;
         while (n < n1) {
             third[k] = sec[n];
