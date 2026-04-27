@@ -12,7 +12,7 @@ public class Merge2Arrays {
         int k = third.length / 2;  
         int n1 = sec.length;      
         while (n < n1) {
-            third[k] = sec[n];
+            third[k] = sec[n];    
             n++;
             k++;
         }
