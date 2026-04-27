@@ -13,7 +13,7 @@ public class Merge2Arrays {
         int n1 = sec.length;      
         while (n < n1) {
             third[k] = sec[n];    
-            n++;
+            n++;   
             k++;
         }
 
