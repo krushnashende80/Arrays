@@ -11,5 +11,5 @@ public class ArrayMinimumNum {
             // System.out.println(temp);
         }
         System.out.println(temp);
-    }
+    } 
 }
