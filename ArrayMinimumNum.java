@@ -1,4 +1,4 @@
-public class ArrayMinimumNum { 
+public class ArrayMinimumNum {    
     public static void main(String[] args) {     
              
         int[] arr = { 40, 39, 10, 330, 90 };       
