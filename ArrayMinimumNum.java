@@ -5,7 +5,7 @@ public class ArrayMinimumNum {
         int temp = arr[0];                     
              
         for (int i = 1; i < arr.length; i++) {    
-            if (arr[i] < temp) {    
+            if (arr[i] < temp) {       
                 temp = arr[i]; // max
             }
             // System.out.println(temp);
